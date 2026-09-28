@@ -1,0 +1,4 @@
+streamlit>=1.56,<2          # st.Page(visibility=...) needs 1.56+
+pandas>=2.1
+plotly>=5.20
+pytest>=8.0

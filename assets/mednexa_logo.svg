@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="36" viewBox="0 0 220 36" role="img" aria-label="MEDNEXA">
+  <rect x="1" y="3" width="30" height="30" rx="4" fill="#0F766E"/>
+  <path d="M16 9v18M7 18h18" stroke="#F5F5F0" stroke-width="3.2" stroke-linecap="square"/>
+  <circle cx="25" cy="9" r="3.4" fill="#B8E35A" stroke="#111827" stroke-width="1.5"/>
+  <text x="42" y="25" fill="#F5F5F0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="19" font-weight="700" letter-spacing="3.2">MEDNEXA</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-label="MedNexa">
+  <rect x="3" y="3" width="30" height="30" rx="4" fill="#0F766E"/>
+  <path d="M18 9v18M9 18h18" stroke="#F5F5F0" stroke-width="3.2" stroke-linecap="square"/>
+  <circle cx="27" cy="9" r="3.4" fill="#B8E35A" stroke="#111827" stroke-width="1.5"/>
+</svg>

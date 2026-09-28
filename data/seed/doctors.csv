@@ -1,0 +1,101 @@
+doctor_id,name,specialty,area,territory,monthly_prescriptions
+D001,Dr. Rajesh Gokhale,ENT Specialist,Greenpark Colony,North Zone,100
+D002,Dr. Anil Agarwal,Cardiologist,Kesar Baug,North Zone,32
+D003,Dr. Anil Gupta,Pediatrician,Kesar Baug,North Zone,35
+D004,Dr. Anil Naik,Orthopedic,Kesar Baug,North Zone,103
+D005,Dr. Divya Pawar,Pediatrician,Kesar Baug,North Zone,95
+D006,Dr. Gaurav Gupta,Gynecologist,Kesar Baug,North Zone,104
+D007,Dr. Rekha Chopra,General Physician,Kesar Baug,North Zone,41
+D008,Dr. Ritu Agarwal,Cardiologist,Kesar Baug,North Zone,280
+D009,Dr. Siddharth Joshi,Gynecologist,Kesar Baug,North Zone,98
+D010,Dr. Tarun Rane,Gynecologist,Kesar Baug,North Zone,248
+D011,Dr. Aparna Nair,Orthopedic,Shanti Nagar,North Zone,222
+D012,Dr. Madhuri Joshi,Dermatologist,Shanti Nagar,North Zone,76
+D013,Dr. Vivek Reddy,General Physician,Shanti Nagar,North Zone,64
+D014,Dr. Arjun Mehta,General Physician,Upper Ridge,North Zone,195
+D015,Dr. Pooja Chopra,General Physician,Upper Ridge,North Zone,136
+D016,Dr. Rahul Deshpande,Orthopedic,Upper Ridge,North Zone,205
+D017,Dr. Sanjay Verma,Pediatrician,Upper Ridge,North Zone,51
+D018,Dr. Shalini Malhotra,General Physician,Upper Ridge,North Zone,97
+D019,Dr. Vaishali Pawar,Dermatologist,Upper Ridge,North Zone,166
+D020,Dr. Vivek Sawant,Dermatologist,Upper Ridge,North Zone,196
+D021,Dr. Anjali Kamat,Cardiologist,Laxmi Vihar,South Zone,82
+D022,Dr. Deepak Deshpande,Dermatologist,Laxmi Vihar,South Zone,213
+D023,Dr. Mohan Pawar,Dermatologist,Laxmi Vihar,South Zone,14
+D024,Dr. Neelam Das,ENT Specialist,Laxmi Vihar,South Zone,234
+D025,Dr. Omkar Sawant,Cardiologist,Laxmi Vihar,South Zone,100
+D026,Dr. Rekha Das,Cardiologist,Laxmi Vihar,South Zone,104
+D027,Dr. Siddharth Naik,Orthopedic,Laxmi Vihar,South Zone,193
+D028,Dr. Sunita Chavan,Gynecologist,Laxmi Vihar,South Zone,209
+D029,Dr. Amit Bansal,ENT Specialist,Nandanvan,South Zone,237
+D030,Dr. Aparna Kamat,Gynecologist,Nandanvan,South Zone,41
+D031,Dr. Harish Mehta,Gynecologist,Nandanvan,South Zone,90
+D032,Dr. Sunil Naik,Diabetologist,Nandanvan,South Zone,25
+D033,Dr. Arjun Bansal,General Physician,Riverside,South Zone,292
+D034,Dr. Nandini Agarwal,Diabetologist,Riverside,South Zone,282
+D035,Dr. Ramesh Saxena,Pediatrician,Riverside,South Zone,39
+D036,Dr. Sunil Chavan,General Physician,Riverside,South Zone,42
+D037,Dr. Kunal Malhotra,General Physician,Tulsi Enclave,South Zone,145
+D038,Dr. Pooja Bansal,Orthopedic,Tulsi Enclave,South Zone,101
+D039,Dr. Pooja Patil,General Physician,Tulsi Enclave,South Zone,122
+D040,Dr. Rupali Mehta,Dermatologist,Tulsi Enclave,South Zone,234
+D041,Dr. Gaurav Kamat,Diabetologist,Ashok Vatika,East Zone,47
+D042,Dr. Mohan Rane,Gynecologist,Ashok Vatika,East Zone,101
+D043,Dr. Rekha Kamat,Diabetologist,Ashok Vatika,East Zone,105
+D044,Dr. Siddharth Chopra,Orthopedic,Ashok Vatika,East Zone,20
+D045,Dr. Smita Chavan,Gynecologist,Ashok Vatika,East Zone,25
+D046,Dr. Asha Agarwal,General Physician,Mangal Chowk,East Zone,278
+D047,Dr. Asha Pawar,Orthopedic,Mangal Chowk,East Zone,128
+D048,Dr. Manish Sawant,Cardiologist,Mangal Chowk,East Zone,33
+D049,Dr. Omkar Gokhale,General Physician,Mangal Chowk,East Zone,189
+D050,Dr. Rahul Verma,Pediatrician,Mangal Chowk,East Zone,244
+D051,Dr. Vivek Mehta,Cardiologist,Mangal Chowk,East Zone,34
+D052,Dr. Anil Pawar,Pediatrician,Rail Vihar,East Zone,128
+D053,Dr. Manish Kulkarni,Diabetologist,Rail Vihar,East Zone,224
+D054,Dr. Rajesh Sawant,General Physician,Rail Vihar,East Zone,41
+D055,Dr. Sameer Menon,General Physician,Rail Vihar,East Zone,305
+D056,Dr. Siddharth Trivedi,Pediatrician,Rail Vihar,East Zone,101
+D057,Dr. Asha Chavan,General Physician,Sunrise Colony,East Zone,230
+D058,Dr. Harish Bhosale,General Physician,Sunrise Colony,East Zone,92
+D059,Dr. Harish Reddy,Diabetologist,Sunrise Colony,East Zone,101
+D060,Dr. Vivek Menon,General Physician,Sunrise Colony,East Zone,109
+D061,Dr. Anjali Sawant,Diabetologist,Gulmohar Park,West Zone,98
+D062,Dr. Meera Shetty,Dermatologist,Gulmohar Park,West Zone,186
+D063,Dr. Nikhil Pawar,General Physician,Gulmohar Park,West Zone,243
+D064,Dr. Trupti Kamat,General Physician,Gulmohar Park,West Zone,17
+D065,Dr. Nandini Jadhav,Orthopedic,Old Mill Road,West Zone,47
+D066,Dr. Pooja Gokhale,ENT Specialist,Old Mill Road,West Zone,21
+D067,Dr. Prakash Sawant,Cardiologist,Old Mill Road,West Zone,120
+D068,Dr. Rahul Jadhav,Diabetologist,Old Mill Road,West Zone,46
+D069,Dr. Rupali Das,Dermatologist,Old Mill Road,West Zone,197
+D070,Dr. Yash Kamat,ENT Specialist,Old Mill Road,West Zone,116
+D071,Dr. Amit Pillai,Cardiologist,Parijat Nagar,West Zone,52
+D072,Dr. Anjali Jadhav,General Physician,Parijat Nagar,West Zone,33
+D073,Dr. Ashwin Kamat,General Physician,Parijat Nagar,West Zone,144
+D074,Dr. Sameer Bhat,Pediatrician,Parijat Nagar,West Zone,203
+D075,Dr. Vikram Kapoor,General Physician,Parijat Nagar,West Zone,136
+D076,Dr. Anil Deshpande,General Physician,Sagar Heights,West Zone,115
+D077,Dr. Deepak Sharma,General Physician,Sagar Heights,West Zone,94
+D078,Dr. Kunal Hegde,ENT Specialist,Sagar Heights,West Zone,167
+D079,Dr. Pallavi Shetty,ENT Specialist,Sagar Heights,West Zone,238
+D080,Dr. Yash Naik,Diabetologist,Sagar Heights,West Zone,285
+D081,Dr. Aparna Bhat,Gynecologist,Chandan Peth,Central Zone,199
+D082,Dr. Deepak Pillai,Pediatrician,Chandan Peth,Central Zone,119
+D083,Dr. Leena Chavan,Pediatrician,Chandan Peth,Central Zone,91
+D084,Dr. Rajesh Verma,General Physician,Chandan Peth,Central Zone,127
+D085,Dr. Siddharth Reddy,Orthopedic,Chandan Peth,Central Zone,14
+D086,Dr. Trupti Deshpande,Diabetologist,Chandan Peth,Central Zone,24
+D087,Dr. Yash Sinha,Pediatrician,Chandan Peth,Central Zone,36
+D088,Dr. Divya Deshpande,Diabetologist,Civic Square,Central Zone,192
+D089,Dr. Kavita Saxena,Cardiologist,Civic Square,Central Zone,37
+D090,Dr. Meera Rane,Dermatologist,Civic Square,Central Zone,75
+D091,Dr. Siddharth Bhat,Cardiologist,Civic Square,Central Zone,284
+D092,Dr. Swati Bhosale,General Physician,Civic Square,Central Zone,37
+D093,Dr. Vivek Joshi,Dermatologist,Civic Square,Central Zone,99
+D094,Dr. Aparna Bhosale,ENT Specialist,Market Yard,Central Zone,70
+D095,Dr. Sameer Sharma,Cardiologist,Market Yard,Central Zone,201
+D096,Dr. Sanjay Rane,Gynecologist,Market Yard,Central Zone,70
+D097,Dr. Gaurav Hegde,Gynecologist,Station Road,Central Zone,21
+D098,Dr. Manish Gokhale,Orthopedic,Station Road,Central Zone,89
+D099,Dr. Manish Menon,Diabetologist,Station Road,Central Zone,178
+D100,Dr. Mohan Chopra,Pediatrician,Station Road,Central Zone,247
